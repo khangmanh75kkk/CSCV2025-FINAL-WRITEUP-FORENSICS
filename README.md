@@ -5,7 +5,8 @@ This is write up for challenge Another Day (Forensics) in CSCV2025 FINAL
 
 Hi everyone, last Sunday, I have done this Forensics challenge in Cybersecurity Contest Vietnam 2025 Final, so that today I want to share you the way to solve this challenge
 
-<img width="596" height="450" alt="image" src="https://github.com/user-attachments/assets/ef9346d6-f7f9-4ae6-9ece-3b58d81105ca" />
+<img width="602" height="449" alt="image" src="https://github.com/user-attachments/assets/9ce99831-9312-4e46-863e-59c861bd1ee6" />
+
 
 1. Analysis file
 
