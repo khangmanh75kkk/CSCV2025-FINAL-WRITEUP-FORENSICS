@@ -112,9 +112,9 @@ if (Test-Path $shiPath) {
 
 - The only problem is the remaining of 3 parts of the flag:
 
-- Continuing scroll and find information, I find a malware name svchost.exe
-<img width="1872" height="780" alt="image" src="https://github.com/user-attachments/assets/a5076df9-10f8-423c-a3c5-063181113328" />
-- So that I find a path to the malware and got a binary file name ``shellcoders.bin``
+- Continuing scroll and find information, I find a malware name svchost.exe in ProgramData/svchost.exe
+<img width="1913" height="883" alt="image" src="https://github.com/user-attachments/assets/7a35049d-3d8f-4388-8adc-898661a2c065" />
+- So that I change the extension to .bin and import to my Desktop, then I have a binary file name ``shellcoders.bin``
 <img width="1916" height="392" alt="image" src="https://github.com/user-attachments/assets/80f42bea-ae0b-4c40-ab9b-16e700cad0cb" />
 @@ This file need to be Reverse so that I use a tool in Kali name **Speakeasy**
 
